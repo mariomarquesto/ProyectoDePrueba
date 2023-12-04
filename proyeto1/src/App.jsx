@@ -1,7 +1,7 @@
 
 
-import './App.css'
-import CardExample from './component/CardExample'
+
+
 
 function App() {
   
@@ -11,7 +11,7 @@ function App() {
     <BasicExample />
 =======
   
-   <CardExample />
+
 >>>>>>> Stashed changes
   )
 }
