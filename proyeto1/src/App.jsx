@@ -1,3 +1,4 @@
+import BasicExample from "./components/Navbar"
 
 
 
@@ -7,12 +8,11 @@ function App() {
   
 
   return (
-<<<<<<< Updated upstream
-    <BasicExample />
-=======
-  
+    <>
 
->>>>>>> Stashed changes
+  <h1></h1>
+<BasicExample /> 
+</>
   )
 }
 
